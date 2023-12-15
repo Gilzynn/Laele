@@ -10,7 +10,6 @@
 		'params' : {}
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/767ccec94bd391d7ff2482e0da5034bd/invoke.js"></scr' + 'ipt>');
-
 </script>
 </script>
   <meta charset="UTF-8">
